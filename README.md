@@ -2,8 +2,7 @@
 
 ## Tentang Saya
 
-Selamat datang di profil GitHub saya! Saya seorang mahasiswa di Politeknik Negeri Bandung jurusan D4 Teknik Informatika. Dengan latar belakang yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
-
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa di Politeknik Negeri Bandung jurusan D4 Teknik Informatika.
 ## Kepakaran
 
 - Pemrograman bahasa C dan Java
