@@ -1,16 +1,27 @@
-### Hi there 👋
+# Template Profil Developer
 
-<!--
-**TirtaRifky/TirtaRifky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa di Politeknik Negeri Bandung jurusan D4 Teknik Informatika. Dengan latar belakang yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kepakaran
+
+- Pemrograman bahasa C dan Java
+
+## Pendidikan
+
+- SMA Fithrah Insani Baleendah
+
+## Proyek dan Kontribusi
+
+- Pembuatan program game sederhana pada bahasa C
+- 
+
+
+## Menghubungi Saya
+
+Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
+
+- Email: [tirtarifky05@gmail.com]
+
+Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
