@@ -1,4 +1,4 @@
-# Template Profil Developer
+#Profil Developer
 
 ## Tentang Saya
 
@@ -14,7 +14,6 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa di Politeknik Neger
 ## Proyek dan Kontribusi
 
 - Pembuatan program game sederhana pada bahasa C
-- 
 
 
 ## Menghubungi Saya
